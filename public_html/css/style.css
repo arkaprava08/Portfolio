@@ -83,3 +83,8 @@ h1, h2, h3, h4, h5, h6 {
     position: absolute;
     left: 1.8em;
 }
+
+footer{
+    background-color: #505050;
+    height: 300px;
+}
